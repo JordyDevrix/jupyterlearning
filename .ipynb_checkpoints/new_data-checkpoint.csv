@@ -1,0 +1,6 @@
+product_code,leeftijd,gender,onderwijsniveau,burgerlijke_staat,gebruik,fitness,Inkomen,kilometers,lengte,gewicht,bmi
+TM195,25,Male,15,Samenwonend,3,2,45000.0,150.34,180,75,22.78
+TM498,52,Female,13,Single,4,4,65000.0,200.78,168,80,28.45
+TM195,37,Male,12,Samenwonend,2,3,52000.0,180.12,175,77,24.67
+TM195,45,Female,14,Single,1,5,48000.0,190.45,165,68,29.34
+TM798,30,Male,15,Samenwonend,5,3,56000.0,170.88,172,74,23.56
